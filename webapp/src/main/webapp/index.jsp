@@ -4,7 +4,8 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="Name"><b>Enter CI/CD Check dasAnsible Test Name Madi Nagesh Bro do something in life</b></label>
+    <label for="Name"><b>Enter CI/CD Again CHeck Check Ansible Test Name Madi Nagesh Bro do something in
+        life</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
